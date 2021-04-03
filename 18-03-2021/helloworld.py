@@ -1,2 +1,1 @@
-str = "hello = sai"
-print (str)
+print ("hello word")

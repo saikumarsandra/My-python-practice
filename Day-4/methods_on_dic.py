@@ -33,3 +33,12 @@ print(std.keys())
 #setdefault("key","value") create new key and value pair
 s=std.setdefault("physics",100)
 print(std)
+
+#get()
+p=std.get("name")
+print(p)
+
+#popitem() 
+pi=std.popitem()
+print(pi)
+

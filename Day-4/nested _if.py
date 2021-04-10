@@ -1,6 +1,6 @@
 num=eval(input())
 if (num%2==0):
-    print ("even")
+    print ("even number")
 if(num%2==1):
-    print("odd")
+    print("odd number")
 

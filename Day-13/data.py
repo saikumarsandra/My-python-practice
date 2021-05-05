@@ -27,7 +27,7 @@ plt.ylabel('Number of Reviews')
 
 plt.show();
 # view
-amazonDataset
+#amazonDataset
 
 # plot polarity
 sns.boxenplot(x='reviews.good', y='polarity', data=amazonDataset)
